@@ -22,7 +22,7 @@
     "ng-zorro-antd": "^8.5.2",
     "normalize.css": "^8.0.1",
     "rxjs": "~6.4.0",
-    "three": "^0.107.0",
+    "three": "^0.137.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
